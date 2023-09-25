@@ -1,0 +1,12 @@
+﻿"Project4.exe" (Win32). Загружено "C:\Users\petya\source\repos\Project4\x64\Debug\Project4.exe". Символы загружены.
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x3974 завершился с кодом 0 (0x0).
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Project4.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 0x3190 завершился с кодом 0 (0x0).
+Поток 0x2db0 завершился с кодом 0 (0x0).
+Программа "[11840] Project4.exe" завершилась с кодом 0 (0x0).
